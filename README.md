@@ -1,5 +1,5 @@
 ## 👋 Hello! Welcome to my GitHub profile.
-### My name is Maurício, i'm a Computer Science studente and Java Developer.
+### My name is Maurício, i'm a Computer Science student and Java Developer.
 
 ### Ferramentas e Tecnologias
 
